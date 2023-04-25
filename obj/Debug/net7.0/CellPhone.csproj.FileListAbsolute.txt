@@ -1,0 +1,5 @@
+C:\Users\33984578865\Desktop\CellPhone\obj\Debug\net7.0\CellPhone.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\CellPhone\obj\Debug\net7.0\CellPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\CellPhone\obj\Debug\net7.0\CellPhone.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\CellPhone\obj\Debug\net7.0\CellPhone.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\CellPhone\obj\Debug\net7.0\CellPhone.csproj.CoreCompileInputs.cache
